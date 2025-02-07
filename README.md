@@ -35,15 +35,15 @@ The dataset used in this project is the Tips dataset. It contains information ab
 ## Requirements
 
 The project requires the following Python libraries:
-- streamlit
-- pandas
-- numpy
-- plotly
+- streamlit.
+- pandas.
+- numpy.
+- plotly.
 
 ---
 
 ## Author
 
 Mahmoud Elbadrawy
-Linkedin: mahmoud-elbadrawy
-GitHub: mahmoud-elbadrawy
+- Linkedin: www.linkedin.com/in/mahmoud-elbadrawy
+- GitHub: mahmoud-elbadrawy
